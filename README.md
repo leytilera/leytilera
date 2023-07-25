@@ -2,12 +2,12 @@
 
 ## Links
 
-[<img src="./tilera.png" alt="Website" width="50"/>](https://tilera.dev)
-[<img src="./youtube.png" alt="Youtube" width="50"/>](https://www.youtube.com/@tilera)
-[<img src="./twitch.png" alt="Twitch" width="50"/>](https://www.twitch.tv/leytilera)
-[<img src="./forgejo.png" alt="tilera Git" width="50"/>](https://git.tilera.org/tilera)
-[<img src="./jensmemes.png" alt="JensMemes" width="50"/>](https://jensmem.es)
-[<img src="./pythno.png" alt="pythonlang.org" width="50"/>](https://pythonlang.org)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//tilera.png" alt="Website" width="50"/>](https://tilera.dev)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//youtube.png" alt="Youtube" width="50"/>](https://www.youtube.com/@tilera)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//twitch.png" alt="Twitch" width="50"/>](https://www.twitch.tv/leytilera)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//forgejo.png" alt="tilera Git" width="50"/>](https://git.tilera.org/tilera)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//jensmemes.png" alt="JensMemes" width="50"/>](https://jensmem.es)
+[<img src="https://git.tilera.org/tilera/.profile/raw/branch/master//pythno.png" alt="pythonlang.org" width="50"/>](https://pythonlang.org)
 
 ## Contact
 
