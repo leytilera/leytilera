@@ -35,7 +35,7 @@
 ### Anvilcraft 
 - [JensMemes backend server](https://git.tilera.org/Anvilcraft/jmserver)
 - [Dartcraft (1.7 port)](https://git.tilera.org/Anvilcraft/Dartcraft)
-- [PC Cpmpat](https://git.tilera.org/Anvilcraft/pccompat)
+- [PC Compat](https://git.tilera.org/Anvilcraft/pccompat)
 - [Universal Electricity](https://git.tilera.org/Anvilcraft/universal-electricity)
 - [modpacktools (deprecated)](https://git.tilera.org/Anvilcraft/modpacktools)
 
